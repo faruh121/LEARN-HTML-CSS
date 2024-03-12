@@ -1,0 +1,101 @@
+/* ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    background-color: rgba(128, 128, 128, 0.075);
+    padding: 5px;
+    width: max-content;
+}
+li a{
+    background-color: #fff;
+    
+    color: blue;
+    text-decoration: none;
+    width: 150px;
+    height: 30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:600 ;
+    transition: all .1s linear;
+
+}
+li a:hover{
+    background-color: rgb(53, 53, 190);
+    color: white;
+}
+
+
+li:first-child a{
+    border-radius: 5px 5px 0 0;
+}
+li:last-child a{
+    border-radius:0 0 5px 5px ; 
+}
+*/
+/* li a{
+    background-color: red;
+    margin: 10px 0;
+    padding: 10px;
+    float: left;
+    border-bottom: 1px solid gray;
+    text-decoration: none;
+    color: white;
+    width: 80px;
+    
+} */
+/* li:first-child a{
+    border-radius: 10px 0 0 10px;
+}
+li:last-child a{
+    border-radius: 0 10px 10px 0;
+}
+
+li a:hover{
+    border-color: black;
+    box-shadow: 1px 1px 100px 10px rgba(0, 0, 0, 0.13) inset;
+}
+ */
+/* p{
+    margin-left: 40%;
+
+}
+При скроле кнопка остаетсяbutton{
+    position: fixed;
+    top: 50%;
+} */
+
+
+/* .parent{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 20px;
+}
+.div1{
+    grid-area: 1 / 1 / 2 / 2;
+    background-color: red;
+    width: 100px;
+    height: 200px;
+}
+.div2{
+    grid-area: 1 / 2 / 3 / 4;
+    background-color: rgb(8, 228, 0);
+    width: 200px;
+    height: 100px;
+}
+.div3{
+    grid-area: 2 / 1 / 4 / 2;
+    background-color: rgb(62, 9, 255);
+    width: 100px;
+    height: 200px;
+}
+.div4{
+    grid-area: 3 / 2 / 4 / 4;
+    background-color: rgb(200, 255, 0);
+    width: 200px;
+    height: 100px;
+} */
