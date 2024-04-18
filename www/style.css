@@ -1,0 +1,70 @@
+.back{
+    width: 1000px;
+    height: 200px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.24);
+    border-width: 1px;
+    
+}
+
+.loading{
+    width: 400px;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(17, 58, 241);
+    border-width: 1px;
+    position: relative;
+    left: 400px;
+    bottom: 128px;
+
+}
+.video{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.done{
+    position: relative;
+    left:850px;
+    bottom: 191px;
+    width: 120px;
+    height: 30px;
+    color: white;
+    background-color: rgb(17, 58, 241);
+    border-style:none ;
+
+}
+h1{
+    position: relative;
+    left: 400px;
+    bottom: 260px;
+}
+p{
+    position: relative;
+    left: 400px;
+    bottom: 270px;
+}
+
+.uploading{
+    width: 170px;
+    height: 32px;
+    position: relative;
+    left: 400px;
+    bottom: 160px;
+    background-color:rgb(17, 58, 241) ;
+
+}
+.ab{
+    position: relative;
+    bottom: 230px;
+    left: 405px;
+    color: white;
+}
+.upl{
+    position: relative;
+    bottom: 265px;
+    left: 605px;
+    color: rgb(17, 58, 241);
+}
